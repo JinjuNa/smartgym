@@ -44,7 +44,7 @@ const Item = props => {
         const icon = "icon-"+product.icon;
         const txt = product.context;
         let positionClass ="";
-        (product.position == "left") ? positionClass = "left" : positionClass = "right";
+        (product.position === "left") ? positionClass = "left" : positionClass = "right";
         return (
             <Box className = {positionClass}>
                 <h3>{product.title}</h3>
