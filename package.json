@@ -38,7 +38,7 @@
       "last 1 safari version"
     ]
   },
-  "homepage": "https://jinjuna.github.io/smartgym/",
+  "homepage": "./",
   "devDependencies": {
     "gh-pages": "^2.2.0"
   }
