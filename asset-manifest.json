@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/smartgym/static/css/main.14ecfa4a.chunk.css",
+    "main.js": "/smartgym/static/js/main.ecc4dda6.chunk.js",
+    "main.js.map": "/smartgym/static/js/main.ecc4dda6.chunk.js.map",
+    "runtime-main.js": "/smartgym/static/js/runtime-main.996de846.js",
+    "runtime-main.js.map": "/smartgym/static/js/runtime-main.996de846.js.map",
+    "static/js/2.5b8f2eb2.chunk.js": "/smartgym/static/js/2.5b8f2eb2.chunk.js",
+    "static/js/2.5b8f2eb2.chunk.js.map": "/smartgym/static/js/2.5b8f2eb2.chunk.js.map",
+    "index.html": "/smartgym/index.html",
+    "precache-manifest.8834cfb55e14cf51a877069abd80bc1f.js": "/smartgym/precache-manifest.8834cfb55e14cf51a877069abd80bc1f.js",
+    "service-worker.js": "/smartgym/service-worker.js",
+    "static/css/main.14ecfa4a.chunk.css.map": "/smartgym/static/css/main.14ecfa4a.chunk.css.map",
+    "static/js/2.5b8f2eb2.chunk.js.LICENSE.txt": "/smartgym/static/js/2.5b8f2eb2.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.996de846.js",
+    "static/js/2.5b8f2eb2.chunk.js",
+    "static/css/main.14ecfa4a.chunk.css",
+    "static/js/main.ecc4dda6.chunk.js"
+  ]
+}
